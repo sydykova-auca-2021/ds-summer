@@ -7,6 +7,7 @@
 // 3(1) 4(2)
 // 4
 
+
 void solve() {
     int n, m; // 5 2
     std::cin >> n >> m;

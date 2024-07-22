@@ -8,6 +8,7 @@ void solve()
     std::vector<int> results;
     const int PUSH = 1, POP = 2;
 
+
     for (int i = 0; i < q; ++i) {
         int type; // 1st num type
         std::cin >> type;

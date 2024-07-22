@@ -3,6 +3,7 @@
 using max_queue = std::queue<int>;
 using max_deque = std::deque<int>;
 
+
 int get_max(const max_deque& deq, int neutral_num) {
     if (deq.empty()) {
         return neutral_num;

@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 
+
 void solve()
 {
     int q; // num of queries
